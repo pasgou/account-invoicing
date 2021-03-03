@@ -2,7 +2,7 @@
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl.html)
 
 {
-    'name': 'Accunt Menu - Invoice & Refund',
+    'name': 'Account Menu - Invoice & Refund',
     'version': '12.0.2.0.0',
     'summary': 'New invoice menu that combine invoices and refunds',
     'category': 'Accounting & Finance',
